@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@300&display=swap');
+bady {font-family: "微軟正黑體","Noto Sans TC", sans-serif; }
+/* 變更檔案文字大小方法* html{font-size: 32px;}  
+
+/* 變更個別文字大小
+h5 {font-size: 2rem;} */
+:root,[data-bs-theme=dark]{
+    --bs-dark-rgb: 0, 202, 202
+}
+.text-purple{color:rgb(rgb(99, 233, 235), green, blue)}
